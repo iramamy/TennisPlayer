@@ -3,5 +3,4 @@ val: Valid/images
 test: Test/images
 
 nc: 1
-names: ['Player']
-
+names: ['player']
